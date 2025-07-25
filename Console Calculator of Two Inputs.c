@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <limits.h>
 
 //This is A type of menu triven programe
 
