@@ -1,6 +1,7 @@
 #adding this comment line just to check the git behavior
 
 
+
 def merge_list (list1,list2):
     
     unique3 = []
@@ -59,3 +60,4 @@ print(unique2)
 
 merge_list(unique1,unique2)
 #Hi This is the first file that is committed and I am tracking this file for the first time.   
+#trying to commit using vs code in github
